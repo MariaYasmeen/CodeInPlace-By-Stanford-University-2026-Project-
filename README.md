@@ -1,6 +1,7 @@
 ﻿#  Code in Place 2026 - Stanford University
 <div align="center">
   <img width="300" height="300" src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png">
+   <img src="assets/TeachingTeam.png"> 
 </div> 
 A documentation of my journey through Stanford's competitive **Code in Place** program. This 6-week intensive course provided a deep dive into Python fundamentals, algorithmic thinking, and software problem-solving.
 
@@ -15,13 +16,13 @@ A documentation of my journey through Stanford's competitive **Code in Place** p
 
 | Week | Date | Topic |
 |------|------|-------|
-| Week 1 | Apr 28, 2026 | [Control Flow with Karel](./Week%201%20-%20Karel) |
-| Week 2 | May 5, 2026 | [The Art of Coding](./Week%202%20-%20Karel) |
-| Week 3 | May 12, 2026 | [Console Programs](./Week%203%20-%20Python) |
-| Week 4 | May 19, 2026 | [Understanding Variables](./Week%204%20-%20Python%20Control%20Flow) |
-| Week 5 | May 26, 2026 | [Graphics](./Week%205%20-%20Graphics) |
-| Week 6 | Jun 2, 2026 | [Lists + Dictionaries](./Week%206%20-%20Data) |
-| Week 7 | Jun 9, 2026 | [Extra Content](./Extra%20Content) |
+| Week 1 | Apr 20, 2026 | [Control Flow with Karel](./Week%201%20-%20Karel) |
+| Week 2 | aprl 26, 2026 | [The Art of Coding](./Week%202%20-%20Karel) |
+| Week 3 | May 3, 2026 | [Console Programs](./Week%203%20-%20Python) |
+| Week 4 | May 10, 2026 | [Understanding Variables](./Week%204%20-%20Python%20Control%20Flow) |
+| Week 5 | May 17, 2026 | [Graphics](./Week%205%20-%20Graphics) |
+| Week 6 | May 24, 2026 | [Lists + Dictionaries](./Week%206%20-%20Data) |
+| Week 7 | May 31, 2026 | [Extra Content](./Extra%20Content) |
 
 
 ##  Program Overview
