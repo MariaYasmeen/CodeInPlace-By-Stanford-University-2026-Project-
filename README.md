@@ -21,7 +21,7 @@ A documentation of my journey through Stanford's competitive **Code in Place** p
 | Week 4 | May 19, 2026 | [Understanding Variables](./Week%204%20-%20Python%20Control%20Flow) |
 | Week 5 | May 26, 2026 | [Graphics](./Week%205%20-%20Graphics) |
 | Week 6 | Jun 2, 2026 | [Lists + Dictionaries](./Week%206%20-%20Data) |
-| Week 7 | Jun 9, 2026 | [---](./Extra%20Content) |
+| Week 7 | Jun 9, 2026 | [Extra Content](./Extra%20Content) |
 
 
 ##  Program Overview
