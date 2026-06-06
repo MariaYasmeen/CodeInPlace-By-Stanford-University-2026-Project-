@@ -1,10 +1,8 @@
 ﻿#  Code in Place 2026 - Stanford University
 <div align="center">
   <img width="300" height="300" src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png">
-</div>
-
+</div> 
 A documentation of my journey through Stanford's competitive **Code in Place** program. This 6-week intensive course provided a deep dive into Python fundamentals, algorithmic thinking, and software problem-solving.
----
 
 ## 📂 Repository Structure
 *   `Week1-Karel/` – Logic and control flow basics.
