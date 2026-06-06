@@ -10,14 +10,13 @@ A documentation of my journey through Stanford's competitive **Code in Place** p
 
 | Week  |     Date     |        Topic        |
 |:------:|:------------:|:-------------------:|
-| Week 1 | Apr 28, 2025 |  [Control Flow with Karel](/week1) |
-| Week 2 |  May 5, 2025 |     [The Art of Coding](/week2)   |
-| Week 3 |  May 12, 2025 | [Console Programs](/week3) |
-| Week 4 | May 19, 2025 |       [Understanding Variables](/week4)     |
-| Week 5 | May 26, 2025 |      [Graphics](/week5)      |
-| Week 6 | Jun 2, 2025 |   [Lists + Dictionaries](/week6)   |
-| Week 7 | Jun 9, 2025 |   [---](/week7)   |
-| Week 8 | Jun 16, 2025 |   [---](/week8)   |
+| Week 1 | Apr 28, 2026 |  [Control Flow with Karel](/Week 1 - Karel) |
+| Week 2 |  May 5, 2026 |     [The Art of Coding](/Week 2 - Karel)   |
+| Week 3 |  May 12, 2026 | [Console Programs](/Week 3 - Python) |
+| Week 4 | May 19, 2026 |       [Understanding Variables](/Week 4 - Python Control Flow)     |
+| Week 5 | May 26, 2026 |      [Graphics](/Week 5 - Graphics)      |
+| Week 6 | Jun 2, 2026 |   [Lists + Dictionaries](/Week 6 - Data)   |
+| Week 7 | Jun 9, 2026 |   [---](/Extra Content)   | 
 
 ##  Program Overview
 *   **Institution:** Stanford University
