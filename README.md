@@ -44,7 +44,10 @@ A documentation of my journey through Stanford's competitive **Code in Place** p
 
 ##   Course Progress
 
-### Week 1: Introduction to Programming with Karel  
+<div align="center"> 
+   <img src="assets/Week1.png"> 
+</div>   
+
 **April 2026**
 
 Started with Karel the Robot — a visual programming environment designed by Stanford to teach core concepts.
@@ -65,8 +68,10 @@ A robot that lives in a grid world and can:
 Simple environment, powerful concepts. Great way to visualize logic before diving into syntax.
 
 ---
-
-### Week 2: Control Flow & Conditionals with Karel  
+<div align="center"> 
+   <img src="assets/Week2.png"> 
+</div> 
+ 
 **April - May 2026**
 
 Built on Week 1 foundations with more complex Karel problems using conditional logic.
@@ -83,8 +88,10 @@ Built on Week 1 foundations with more complex Karel problems using conditional l
 Learning to combine conditions to solve increasingly complex problems. Karel teaches you to *think* like a programmer before worrying about syntax.
 
 ---
+<div align="center"> 
+   <img src="assets/week3.png"> 
+</div>  
 
-### Week 3: Real Python — Beyond Karel  
 **May 2026**
 
 Transitioned from Karel's visual world to writing "real" Python code.
@@ -114,8 +121,10 @@ Transitioned from Karel's visual world to writing "real" Python code.
 Karel taught the logic; Python gives it real-world application. Every concept from Karel — loops, conditionals, functions — now works on actual data and produces meaningful output. The jump from "move a robot" to "calculate something useful" makes the purpose of programming click.
 
 ---
+<div align="center"> 
+   <img src="assets/Week4.png"> 
+</div>  
 
-### Week 4: Functions, Parameters & Game Development  
 **May 2026**
 
 Dove deeper into functions with parameters, return values, and building complete programs.
@@ -144,8 +153,10 @@ Dove deeper into functions with parameters, return values, and building complete
 Functions transform code from linear scripts into modular, reusable components. Return values allow functions to communicate state changes, enabling complex multi-level game mechanics. The strategy games (High-Low, Nimm) showed how the same Boolean logic used in simple conditionals can power complete turn-based game systems.
 
 ---
+<div align="center"> 
+   <img src="assets/Week5.png"> 
+</div> 
 
-### Week 5: Graphics & Visual Programming 
 **May 2026**
 
 Transitioned from text-based programs to visual programming using Stanford's Graphics library.
@@ -172,8 +183,10 @@ Transitioned from text-based programs to visual programming using Stanford's Gra
 The same programming concepts (loops, functions, randomness) now create visual output. Each project built on the last: from a single row of boxes → a pyramid → a full quilt pattern. The final scene project tied everything together — using functions with parameters to draw reusable visual components.
 
 ---
+<div align="center"> 
+   <img src="assets/Week6.png"> 
+</div>  
 
-### Week 6: Lists, Dictionaries & Data Structures  
 **May 2026**
 
 Final week of live sessions. Moved from visual programming into working with 
@@ -243,8 +256,9 @@ code-in-place-2026/
 *   **Data Handling:** Storing and analyzing information using Python’s primary data structures.
 
 ---
-
-#   Final Project 
+<div align="center"> 
+   <img src="assets/finalproject.png"> 
+</div>  
  To be Added soon.
 
 ---
@@ -255,6 +269,10 @@ code-in-place-2026/
 Will be added upon successful completion of the program (June 2026).
 
 ---
+<div align="center"> 
+   <img src="assets/allfornow.png"> 
+</div> 
+
 
 ## 🔗 More About Code in Place
 
