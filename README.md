@@ -284,6 +284,6 @@ Code in Place is Stanford's free community offering of the first half of CS106A 
 ---
 
 ## 🔗 Connect
-*   **LinkedIn:** [linkedin.com/in/arabelafrankow](https://www.linkedin.com/in/maria-yasmeen-frontened-dev-designer/) 
+*   **LinkedIn:** [linkedin.com/in/maria-yasmeen](https://www.linkedin.com/in/maria-yasmeen-frontened-dev-designer/) 
 
 *Code in Place is a community offering of Stanford’s CS106A. Learn more at [codeinplace.stanford.edu](https://codeinplace.stanford.edu).*
