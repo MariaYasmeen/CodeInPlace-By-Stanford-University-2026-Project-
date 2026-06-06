@@ -11,19 +11,18 @@ A documentation of my journey through Stanford's competitive **Code in Place** p
 *   `Week4-Week 4-Python Control Flow/` – Game development and logic management.
 *   `Week5-Graphics/` – Visual programming and canvas manipulation.
 *   `Week6-Data/` – List and dictionary data processing.
-
-
 ## Section Schedule
 
-| Week  |     Date     |        Topic        |
-|:------:|:------------:|:-------------------:|
-| Week 1 | Apr 28, 2026 |  [Control Flow with Karel](/Week 1 - Karel) |
-| Week 2 |  May 5, 2026 |     [The Art of Coding](/Week 2 - Karel)   |
-| Week 3 |  May 12, 2026 | [Console Programs](/Week 3 - Python) |
-| Week 4 | May 19, 2026 |       [Understanding Variables](/Week 4 - Python Control Flow)     |
-| Week 5 | May 26, 2026 |      [Graphics](/Week 5 - Graphics)      |
-| Week 6 | Jun 2, 2026 |   [Lists + Dictionaries](/Week 6 - Data)   |
-| Week 7 | Jun 9, 2026 |   [---](/Extra Content)   | 
+| Week | Date | Topic |
+|------|------|-------|
+| Week 1 | Apr 28, 2026 | [Control Flow with Karel](./Week%201%20-%20Karel) |
+| Week 2 | May 5, 2026 | [The Art of Coding](./Week%202%20-%20Karel) |
+| Week 3 | May 12, 2026 | [Console Programs](./Week%203%20-%20Python) |
+| Week 4 | May 19, 2026 | [Understanding Variables](./Week%204%20-%20Python%20Control%20Flow) |
+| Week 5 | May 26, 2026 | [Graphics](./Week%205%20-%20Graphics) |
+| Week 6 | Jun 2, 2026 | [Lists + Dictionaries](./Week%206%20-%20Data) |
+| Week 7 | Jun 9, 2026 | [---](./Extra%20Content) |
+
 
 ##  Program Overview
 *   **Institution:** Stanford University
